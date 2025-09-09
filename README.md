@@ -5,7 +5,7 @@ Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/fribidi-feedsto
 
 Home: https://github.com/fribidi/fribidi
 
-Package license: LGPL-2.1
+Package license: LGPL-2.1-or-later
 
 Summary: The Free Implementation of the Unicode Bidirectional Algorithm.
 
